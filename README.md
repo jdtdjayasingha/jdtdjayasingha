@@ -1,12 +1,12 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jdtdjayasingha&label=Profile%20Views&color=0e75b6&style=flat" alt="jdtdjayasingha" /> </p>
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></p>
+
+<!--<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></p>-->
 
 <div align="center">
 <h2> Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35"> , Welcome To My GitHub Profile!</h2>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=20&center=true&vCenter=true&width=600&height=50&lines=Student+at+the+NSBM+Green+University;Software+Engineering+Undergraduate;Flutter+Developer"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=18&center=true&vCenter=true&width=600&height=50&lines=Student+at+the+NSBM+Green+University;Software+Engineering+Undergraduate;Flutter+Developer"></a>
 </p>
 
 <table align="center">
@@ -21,12 +21,12 @@
 
 </td>
 <td width="50%" align="center">
-<img align="center" width="370" alt="Coding" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" height="200" frameBorder="0" class="giphy-embed">
+<img align="center" width="370" alt="Coding" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" height="160" frameBorder="0" class="giphy-embed">
 </td>
 </tr>
 </table>
 
-<h2 align="center">My Statistics</h2><br>
+<h2 align="center">My Statistics</h2>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -129,6 +129,8 @@
     <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" />
 </a> &nbsp;&nbsp;
 <p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jdtdjayasingha&label=Profile%20Views&color=0e75b6&style=flat" alt="jdtdjayasingha" /> </p>
 
  
 
