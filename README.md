@@ -1,7 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jdtdjayasingha&label=Profile%20Views&color=0e75b6&style=flat" alt="jdtdjayasingha" /> </p>
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-
 <div align="center">
 <h2> Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35"> , Welcome To My GitHub Profile!</h2>
 
@@ -26,22 +24,21 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">My Statistics</h2><br>
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="55%" align="center">
 <p align=center>
   
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=jdtdjayasingha&theme=gotham&show_icons=true&count_private=true&hide_title=true_border=true" alt="zumrudu-anka" />
-    </a>
-      <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width=450 src="http://github-readme-streak-stats.herokuapp.com?user=jdtdjayasingha&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/> 
+    </a>
+      <br>
+       <br>
+       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=jdtdjayasingha&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=false" />
     </a>
     
   </div>
@@ -49,14 +46,14 @@
   
 </p>
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
   
-  <img  align="center" width=450 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jdtdjayasingha&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center" width=350 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jdtdjayasingha&theme=gotham&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
 </td>
 </tr>
 </table>
 
-<h2 align="center">My Tech Stack</h2><br><br>
+<h2 align="center">My Tech Stack</h2><br>
   <div align=left>
 <details>	
   <summary><b>Languages</b></summary><br>
@@ -106,7 +103,7 @@
   </div>
 
 <div align="center">
-  <h2><b>Can Connect With Me On</b></h2>
+  <h2><b>You Can Reach Me At</b></h2>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/jdtdjayasingha/" target="_blank">
