@@ -130,8 +130,6 @@
 </a> &nbsp;&nbsp;
 <p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jdtdjayasingha&label=Profile%20Views&color=0e75b6&style=flat" alt="jdtdjayasingha" /> </p>
-
  
 
 
