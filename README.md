@@ -125,8 +125,8 @@
     <img align="center" | GitHub" width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
 </a> &nbsp;&nbsp;
 
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" />
+<a href="https://www.facebook.com/jdtdilshan?mibextid=ZbWKwL">
+    <img align="center" | Facebook" width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" />
 </a> &nbsp;&nbsp;
 <p>
 
