@@ -52,7 +52,10 @@
   <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdtdjayasingha&count_private=true&theme=gotham&hide&langs_count=6"/>
 </td>
 </tr>
-</table>
+</table> 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jdtdjayasingha&theme=github-compact&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h2 align="center">My Tech Stack</h2><br>
   <div align=left>
