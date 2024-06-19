@@ -61,48 +61,50 @@
   <div align=left>
 <details>	
   <summary><b>Languages</b></summary><br>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-  <img width ='40px' src ='https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true'> </a>
-   
-
- 
-
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
   
 </details>
 
 <details>	
-  <summary><b>Frameworks</b></summary><br>
-   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
+ <summary><b>Frameworks</b></summary><br>
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
 </details>
 
 <details>	
-  <summary><b>Databases</b></summary><br>
-  <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'> </a>
-    <img width ='32px' src ='https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true'> </a>
+ <summary><b>Databases</b></summary><br>
+  <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='32px' src ='https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true'> </a>
+</details>
 
+<details>	
+ <summary><b>Tools</b></summary><br>
+  <img width ='40px' src ='https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png'> </a>
 </details>
 
 
 <details>	
-  <summary><b>Design tools</b></summary><br>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-  </details>
+ <summary><b>Design tools</b></summary><br>
+  <img width ='38px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
+</details>
 
 <details>	
-  <summary><b>Others</b></summary><br>
-<img width ='32px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png'> </a>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+ <summary><b>Others</b></summary><br>
+  <img width ='40px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>&nbsp;&nbsp;&nbsp;
+  <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 </details>
 
   </div>
