@@ -68,7 +68,8 @@
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+  <img width ='40px' src ='https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true'> </a>
+   
 
  
 
@@ -85,7 +86,7 @@
 <details>	
   <summary><b>Databases</b></summary><br>
   <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'> </a>
-    <img width ='32px' src ='https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg'> </a>
+    <img width ='32px' src ='https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true'> </a>
 
 </details>
 
@@ -110,29 +111,20 @@
   <h2><b>You Can Reach Me At</b></h2>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/jdtdjayasingha/" target="_blank">
-  <img align="center" | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://x.com/jdtdjayasingha" target="_blank">
-  <img align="center" | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:jdtdjayasingha@gmail.com" >
-  <img align="center" | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jdtdjayasingha/" target="blank">
+  <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" height="30" width="40" /></a>
+<a href="https://x.com/jdtdjayasingha" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="mailto:jdtdjayasingha@gmail.com" target="blank">
+  <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25126574/tharindu-dilshan" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" /></a>
+<a href="https://github.com/jdtdjayasingha" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jdtdilshan?mibextid=ZbWKwL" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 
-  <a href="https://stackoverflow.com/users/25126574/tharindu-dilshan">
-    <img align="center" | stack-overflow" width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg" />
-</a> &nbsp;&nbsp;
-
-<a href="https://github.com/jdtdjayasingha">
-    <img align="center" | GitHub" width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
-</a> &nbsp;&nbsp;
-
-<a href="https://www.facebook.com/jdtdilshan?mibextid=ZbWKwL">
-    <img align="center" | Facebook" width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg" />
-</a> &nbsp;&nbsp;
-<p>
-
+</p>
  
 
 
