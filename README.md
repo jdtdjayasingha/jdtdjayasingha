@@ -120,7 +120,7 @@
 <a href="mailto:jdtdjayasingha@gmail.com" target="blank">
   <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25126574/tharindu-dilshan" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="36" /></a>
 <a href="https://github.com/jdtdjayasingha" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jdtdilshan?mibextid=ZbWKwL" target="blank">
