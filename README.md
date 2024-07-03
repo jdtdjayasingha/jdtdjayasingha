@@ -26,7 +26,7 @@
 </tr>
 </table>
 
-<h2 align="center">My Statistics</h2><br>
+<h2 align="center">My Statistic</h2><br>
 <p align="center">
 <table align="center">
 <tr border="none">
