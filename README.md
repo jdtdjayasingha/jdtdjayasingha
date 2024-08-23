@@ -4,7 +4,7 @@
 <h2> Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35"> , Welcome To My GitHub Profile!</h2>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=18&center=true&vCenter=true&width=600&height=50&lines=Student+at+the+NSBM+Green+University;Software+Engineering+Undergraduate;Flutter+Developer"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=cyan&size=18&center=true&vCenter=true&width=600&height=50&lines=Student+at+the+NSBM+Green+University;Software+Engineering+Undergraduate;Flutter+Developer;.NET+Developer"></a>
 </p>
 
 <table align="center">
