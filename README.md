@@ -16,12 +16,6 @@
 - 💬 Ask me about **Flutter | Web Development**&nbsp;&nbsp;&nbsp;
 - 😉 Fun fact, call me as **JD**
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jdtdjayasingha/)**
-
-
-
-
-
-
 </td>
 <td width="50%" align="center">
   <img align="center" width="350" alt="Coding" src="https://github.com/user-attachments/assets/4864ed89-55ea-4df1-ba06-501f2f250963" frameBorder="0" class="giphy-embed">
