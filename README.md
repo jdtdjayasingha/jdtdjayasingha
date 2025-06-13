@@ -1,6 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jdtdjayasingha&label=Profile%20Views&color=0e75b6&style=flat" alt="jdtdjayasingha" /> </p>
 
-
 <div align="center">
 <h2> Hi There <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="35"> , Welcome To My GitHub Profile!</h2>
 
